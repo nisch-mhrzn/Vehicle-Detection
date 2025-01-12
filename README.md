@@ -47,13 +47,7 @@ pip install -r requirements.txt
 ### Using OpenCV (default):
 Run the script with the default OpenCV-based background subtraction method:
 ```bash
-python vehicle_counter.py
-```
-
-### Using YOLOv5:
-For higher accuracy, integrate YOLOv5:
-```bash
-python vehicle_counter_yolo.py
+python new.py
 ```
 
 ### Input Video
